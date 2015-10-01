@@ -1,0 +1,16 @@
+
+body{
+	
+	background-image: url("dark_embroidery.png");
+	
+	
+}
+
+#wrapper{
+	
+	width:960px;
+	height:900px;
+	background:grey;
+	margin:0 auto;
+	
+}
